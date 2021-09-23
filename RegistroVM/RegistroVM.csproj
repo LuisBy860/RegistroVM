@@ -122,7 +122,7 @@
     <Compile Include="App_Start\BundleConfig3.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\PruebaController.cs" />
+    <Compile Include="Controllers\loqueseaController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -169,6 +169,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\loquesea\" />
     <Folder Include="Views\Prueba\" />
   </ItemGroup>
   <ItemGroup>
